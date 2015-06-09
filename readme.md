@@ -2,7 +2,7 @@
 
 Proof of Concept version. Needs polishing, hooks, escaping, etc.
 
-Adds a button above the concept for that says **Quote Selection** Upon pressing, whatever text on the page has been highlighted will be wrapped in a `<blockquote>`* and appended to the comment box.
+Adds a button above the comment form that says **Quote Selection**. Upon pressing, whatever text on the page has been highlighted will be wrapped in a `<blockquote>`* and appended to the comment box.
 
 \* unless that tag isn't allowed or if no text has been selected
 
